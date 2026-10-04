@@ -1,6 +1,6 @@
 # Lab 1: MapReduce 完成记录
 
-> 记录 6.5840 Spring 2026 Lab 1 的设计、实现与调试过程。实验说明见同目录 `lab1-mapreduce.md`。
+> 记录 6.5840 Spring 2026 Lab 1 的设计、实现与调试过程。实验说明见同目录 `lab1-mr.md`。
 
 ## 1. 目标
 

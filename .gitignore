@@ -1,3 +1,6 @@
 pkg/
 *-handin.tar.gz
+
+.codegraph/
+.agents/
 opencode.json
